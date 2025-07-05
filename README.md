@@ -44,8 +44,6 @@ Building an automation
 30) At "Insert a paragraph", choose "By appending to the body of document"
 31) Under "Appended Text", add the AI Assistant
 
-33) 
- 
 
-
+Source
 https://www.youtube.com/watch?v=ap0MoOBmim8&list=PLQ-voDb-HYzKGGPJfk86K0CuSuArdTVq8&index=6&ab_channel=RyanDoser
