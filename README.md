@@ -43,6 +43,8 @@ Building an automation
 29) Add the Google Doc you created as the document
 30) At "Insert a paragraph", choose "By appending to the body of document"
 31) Under "Appended Text", add the AI Assistant
+32) Click "save" to save your automation workflow in the bottom menu
+33) Set an Interval, how often you want to run the automation, in the bottom menu
 
 
 Source
